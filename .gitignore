@@ -1,0 +1,13 @@
+# API key / secret information
+.env
+
+# Python temporary files
+__pycache__/
+*.pyc
+
+# PyCharm files
+.idea/
+
+# Virtual environment
+venv/
+.venv/
